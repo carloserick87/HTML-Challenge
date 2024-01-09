@@ -1,0 +1,30 @@
+{
+    "short_name" : "Estructura",
+    "name" : "Estructura Web",
+    "icons" : [
+        {
+            "src": "./icons/favicon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32" 
+        },
+        {
+            "src": "./icons/favicon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "./icons/safari-pinned-tab.svg",
+            "type": "image/svg",
+            "sizes": "800x800"
+        },
+        {
+            "src": "./icons/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },{
+            "src": "./icons/mstile-150x150.png",
+            "type": "image/png",
+            "sizes": "150x150"
+        }
+    ]
+}
